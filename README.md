@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 <h2 align="left">Also</h2>
 <h3 align="left">Project name:</h3>
 <h3 align="left">Image Classifications: Flowers Recognition</h3>
